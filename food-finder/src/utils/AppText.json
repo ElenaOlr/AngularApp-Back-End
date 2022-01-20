@@ -1,0 +1,23 @@
+{
+  "errors": {
+    "credentials": {
+      "missing": "Please provide email and password",
+      "incorrect": "Incorrect email or password"
+    },
+    "token": {
+      "missing": "Token was not provided",
+      "invalid": "Invalid token"
+    },
+    "id": {
+      "notFound": "ID not found."
+    }
+  },
+  "status": {
+    "success": "success"
+  },
+  "messages": {
+    "loggedOut": "Logged out!",
+    "notFound": "No user found",
+    "created": "User was created"
+  }
+}
